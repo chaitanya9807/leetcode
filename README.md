@@ -1,7 +1,1 @@
-# leetcode
-
-
-
-
-
-all code files are with their descriptive problems
+Month long coding challenge
